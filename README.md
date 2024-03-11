@@ -1,4 +1,4 @@
-﻿# complete-mern-project
+﻿# complete-restaurant-management-project
 
 ## Table of Contents
 - [Install](#install)
