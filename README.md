@@ -8,8 +8,6 @@
 - [Example Readmes](#example-readmes)
 - [Related Efforts](#related-efforts)
 - [Maintainers](#maintainers)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Install
 
@@ -69,12 +67,8 @@ $ standard-readme-spec
 # Prints out the standard-readme spec
 ```
 
-### Contributors
-
-This project exists thanks to my youtube audience who contribute. 
 
 
-## License
 
-[MIT](LICENSE) © Md Al Mamun
+
 
